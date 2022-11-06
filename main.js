@@ -54,6 +54,5 @@ for (let i =0; i <= num; i++) { // i++ is the same as i = i + 1
     console.log(i + "!"); // print numbers from 0 to num
 }
 
-console.log("Completed, have a nice day!");
 
 console.log("Completed, have a nice day!");
