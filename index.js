@@ -53,13 +53,11 @@ function test() {
         answer = Number(input());
     }
 
-
 }
 
 function end() {
-    console.log("Completed, have a nice day!");
+    console.log("Congratulations, have a nice day!");
 }
-
 
 greet('Aid', '2020')  // change it as you need
 remind_name();
